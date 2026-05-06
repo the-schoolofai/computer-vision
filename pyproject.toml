@@ -11,4 +11,5 @@ dependencies = [
     "opencv-python-headless>=4.13.0.92",
     "pillow>=12.2.0",
     "scikit-image>=0.26.0",
+    "scikit-learn>=1.8.0",
 ]
